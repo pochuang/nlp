@@ -1,18 +1,22 @@
 # +-NLP Training Notepad
 
-This is about NLP training.
+This is about NLP training course.
+
+Training material:
 
 - Training material: https://drive.google.com/drive/folders/1HycvQOT4IhOedSLYuiXNq4yJYND-3X-C?usp=sharing
 - Transformer Explainer: https://poloclub.github.io/transformer-explainer/
 
-## Setup Environment
+## Setup Development Environment
 
-- Setup cloud environment
+There are two choices:
+
+- Cloud environment
     - Visit google drive
         https://drive.google.com/
     - Click 'Add' -> 'More' 
         Add 'Google 'Colaboratory'
-- Setup local environment
+- Local environment
     - Install python
       https://www.python.org/downloads/
     - Run this in command line to install all packages.
