@@ -15,5 +15,7 @@ This is about NLP training.
 - Setup local environment
     - Install python
       https://www.python.org/downloads/
-    - Execute cmd.exe and install packages
-      pip install -r requirement.txt
+    - Run this in command line to install all packages.
+      c:\Users\user> pip install -r requirement.txt
+    - Run jupyter from command line.
+      c:\Users\user> jupyter notebook
