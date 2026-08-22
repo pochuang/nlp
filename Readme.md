@@ -41,7 +41,7 @@ There are two choices:
 - Open `lab1\lab1-2.ipynb` from `jupyter` or `Colaboratory`  
 - Change text in `SystemMessage`
 
-### Lab1-3 Translator demo
+### Lab1-3 Translation Assistant
 - Open `lab1\lab1-3.ipynb` from `jupyter` or `Colaboratory`  
 - Change text in `SystemMessage`
 
