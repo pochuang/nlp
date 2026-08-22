@@ -28,7 +28,7 @@ There are two choices:
 
 2026/08/22
 
-### Lab1-1 ollama demo
+### Lab1-1 How to use ollama
 
 - Register ollama account
   Register ollama account from `https://ollama.com/`
@@ -36,3 +36,12 @@ There are two choices:
   Add your API key from `https://ollama.com/settings/keys`  
   - Click `Add API Key` -> `Generate API Key`
 - Open `lab1\lab1-1.ipynb` from `jupyter` or `Colaboratory`  
+
+### Lab1-2 Add system message to ollama
+- Open `lab1\lab1-2.ipynb` from `jupyter` or `Colaboratory`  
+- Change text in `SystemMessage`
+
+### Lab1-3 Translator demo
+- Open `lab1\lab1-3.ipynb` from `jupyter` or `Colaboratory`  
+- Change text in `SystemMessage`
+
