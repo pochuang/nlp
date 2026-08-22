@@ -19,3 +19,16 @@ This is about NLP training.
       c:\Users\user> pip install -r requirement.txt
     - Run jupyter from command line.
       c:\Users\user> jupyter notebook
+
+## Lab1 
+
+2026/08/22
+
+### Lab1-1 ollama demo
+
+- Register ollama account
+  Register ollama account from `https://ollama.com/`
+- Add API key
+  Add your API key from `https://ollama.com/settings/keys`  
+  - Click `Add API Key` -> `Generate API Key`
+- Open `lab1\lab1-1.ipynb` from `jupyter` or `Colaboratory`  
