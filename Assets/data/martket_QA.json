@@ -1,0 +1,2502 @@
+[
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "週六可以聯絡客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "我買1200元需要運費嗎？",
+    "input": "",
+    "output": "未滿1500元需支付運費。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "可以貨到付款嗎？",
+    "input": "",
+    "output": "不支援貨到付款。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "退款多久會完成？",
+    "input": "",
+    "output": "退款需3至5個工作天。"
+  },
+  {
+    "instruction": "發票怎麼取得？",
+    "input": "",
+    "output": "採用電子發票，寄送至訂單Email。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "VIP需要滿額才免運嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "退貨期限是多久？",
+    "input": "",
+    "output": "7天"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "收到第8天還能退嗎？",
+    "input": "",
+    "output": "超過7天不可退貨。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "有哪些付款方式？",
+    "input": "",
+    "output": "支援信用卡與Line Pay。"
+  },
+  {
+    "instruction": "滿多少可以免運？",
+    "input": "",
+    "output": "滿1500元免運。"
+  },
+  {
+    "instruction": "假日有客服嗎？",
+    "input": "",
+    "output": "假日不提供客服服務。"
+  },
+  {
+    "instruction": "VIP買800元要運費嗎？",
+    "input": "",
+    "output": "VIP會員免運，無需滿額。"
+  },
+  {
+    "instruction": "客服營業時間？",
+    "input": "",
+    "output": "客服時間為週一至週五09:00-18:00。"
+  },
+  {
+    "instruction": "訂單多久內可以取消？",
+    "input": "",
+    "output": "訂單成立1小時內可取消。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  },
+  {
+    "instruction": "生鮮商品可以退嗎？",
+    "input": "",
+    "output": "生鮮商品不可退貨。"
+  }
+]
